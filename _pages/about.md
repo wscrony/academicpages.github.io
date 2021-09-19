@@ -40,6 +40,7 @@ Professional Activities
 * Special Guest Editor, Distributed and Parallel Databases, 2016.7 - 2017.4
 * Editorial Board Member, International Journal for Infonomics, 2003 – Present
 * Editorial Board Member, KIISE Computing Practices and Letters, 2011 - Present
+
 ## Organizers ##
 * Demo Co-Chair, the 26th International Conference on Database Systems for Advanced Applications (DASFAA), Taiwan, April 2021
 * Senior Program Committee Member, the 28th ACM International Conference on Information and Knowledge Management (CIKM), Beijing, China, November 2019
