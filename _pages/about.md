@@ -9,22 +9,66 @@ redirect_from:
 ---
 
 I am currently a Full Professor in Department of Computer Science and Engineering in POSTECH. I am a vice president of Office of Academic
-Information Affairs in POSTECH, also leaning [the BK21 center](http://ai.postech.ac.kr/) for AI. I obtained his Ph.D degree from KAIST in 2001. His primary research efforts have been devoted to developing new techniques in DBMS "engine research." I has developed an object-relational DBMS supporting multiple language bindings. He has also developed the tight coupling technology of DBMS with IR features during his Ph.D. study. At the IBM Almaden Research Center, he has developed progressive query optimization in the parallel DB2 as a postdoc. I also invented the new concept of "parallelizing query optimization" for faster query compilation by exploiting multi-core architecture. Recently, I has developed two systems called TurboGraph++ and TurboFlux for trillion-scale graph analytics and ultrafast continuous subgraph matching, respectively. I extensively published at major international journals and conferences, including SIGMOD, VLDB, KDD, ICDE, WWW, IEEE Transactions on Knowledge and Data Engineering (TKDE), and VLDB Journal. I regularly serves as a PC member for SIGMOD, VLDB, and ICDE. I serves/served as an associate editor of several international journals including the VLDB Journal and IEEE TKDE.
+Information Affairs in POSTECH, also leading [the BK21 center](http://ai.postech.ac.kr/) for AI. I obtained his Ph.D degree from KAIST in 2001. His primary research efforts have been devoted to developing new techniques in DBMS "engine research." I has developed an object-relational DBMS supporting multiple language bindings. He has also developed the tight coupling technology of DBMS with IR features during his Ph.D. study. At the IBM Almaden Research Center, he has developed progressive query optimization in the parallel DB2 as a postdoc. I also invented the new concept of "parallelizing query optimization" for faster query compilation by exploiting multi-core architecture. Recently, I has developed two systems called TurboGraph++ and TurboFlux for trillion-scale graph analytics and ultrafast continuous subgraph matching, respectively. I extensively published at major international journals and conferences, including SIGMOD, VLDB, KDD, ICDE, WWW, IEEE Transactions on Knowledge and Data Engineering (TKDE), and VLDB Journal. I regularly serves as a PC member for SIGMOD, VLDB, and ICDE. I serves/served as an associate editor of several international journals including the VLDB Journal and IEEE TKDE.
 
-A data-driven personal website
+Professional Experience
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Professional Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* 2013.7-present, Full Professor, Dept. of Computer Science and Engineering/Dept. of Creative IT Engineering, POSTECH
+* 2003.3- 2013.7, Associate Professor (Tenured), Computer Engineering Department, Kyungpook National University.
+* 2008.1- 2012.8, Director, Institute of IT-Gifted Youth, Kyungpook National University.
+* 2005.8- 2006.8, Post-Doctoral Fellow, IBM Almaden Research Center
+(worked on progressive optimization in the parallel DB2 DBMS).
+* 2002.9- 2003.2, Research Professor, Advanced Information Technology Research Center, KAIST.
+* 2002.7, Visiting Scholar, Software Technology Lab, HP Labs.
+* 2001.9 - 2002.8, Post-Doctoral Fellow, Advanced Information Technology Research Center, KAIST.
+* 2001.7 - 2001.8, Visiting Student, Software Technology Lab, HP Labs.
+* 2000.7 - 2000.8, Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A.
+* 1999.7 - 1999.8, Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A.
+* 1997.7 - 1997.8, Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A.
+
+Professional Activities
+======
+Journal Edtiors
+------
+* Associate Editor, [SIGMOD RECORD](https://sigmodrecord.org/), 2021.7 - Present
+* Associate Editor, [PVLDB 2022](http://vldb.org/pvldb/vol15-review-board/), 2021.4 - 2022.3
+* Associate Editor, [VLDB Journal](https://www.springer.com/journal/778), Sept. 2015 - Present
+* Associate Editor, [PVLDB 2018](http://vldb2)018.lncc.br/conference-officers.html), 2017.4 - 2018.7
+* Associate Editor, [Information Sciences](https://www.journals.elsevier.com/information-sciences/editorial-board), 2013 - Present
+* Associate Editor, IEEE Transactions on Knowledge and Data Engineering, 2009 - 2013
+* Associate Editor, Journal of Computing Science and Engineering (JCSE), 2007 - Present
+* Associate Editor, IEICE Transactions on Information and Systems, 2007 - 2011.5
+* Special Guest Editor, Distributed and Parallel Databases, 2016.7 - 2017.4
+* Editorial Board Member, International Journal for Infonomics, 2003 – Present
+* Editorial Board Member, KIISE Computing Practices and Letters, 2011 - Present
+
+Conference Organizers
+------
+
+Selected PC Memberships
+======
+
+Research Interests
+======
+
+Honors
+======
+
+Keynote Speeches
+======
+
+Invited Talks
+======
+
+
+
+
 
 Site-wide configuration
 ------
