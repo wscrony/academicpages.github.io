@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Professor Wook-Shin Han is currently a Full Professor in Department of Computer Science and Engineering in POSTECH. He obtained his Ph.D degree from KAIST in 2001. His primary research efforts have been devoted to developing new techniques in DBMS "engine research." He has developed an object-relational DBMS supporting multiple language bindings. He has also developed the tight coupling technology of DBMS with IR features during his Ph.D. study. At the IBM Almaden Research Center, he has developed progressive query optimization in the parallel DB2 as a postdoc. He also invented the new concept of "parallelizing query optimization" for faster query compilation by exploiting multi-core architecture. Recently, he has developed two systems called TurboGraph++ and TurboFlux for trillion-scale graph analytics and ultrafast continuous subgraph matching, respectively. He extensively published at major international journals and conferences, including SIGMOD, VLDB, KDD, ICDE, WWW, IEEE Transactions on Knowledge and Data Engineering (TKDE), and VLDB Journal. He regularly serves as a PC member for SIGMOD, VLDB, and ICDE. He serves/served as an associate editor of several international journals including the VLDB Journal and IEEE TKDE.
 
 A data-driven personal website
 ======
