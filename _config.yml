@@ -11,7 +11,7 @@ title                    : "Wook-Shin Han / Full Professor @ POSTECH"
 title_separator          : "-"
 name                     : &name "Wook-Shin Han"
 description              : &description "Computer Scientist"
-url                      : https://wshan.github.io 
+url                      : https://wscrony.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wscrony/wshan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
