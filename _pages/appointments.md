@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Appointments"
-excerpt: "About me"
+excerpt: "Appointments"
 author_profile: true
 redirect_from: 
   - /appointments/
